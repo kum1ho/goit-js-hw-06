@@ -1,2 +1,2 @@
 # goit-js-hw-06
-js hw 6
+hw6
